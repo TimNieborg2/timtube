@@ -1,0 +1,15 @@
+#input::-webkit-search-cancel-button {
+    margin-right: 65px;
+}
+::-webkit-scrollbar {
+    width: 20px;
+}
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #b3b8ba;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+}
