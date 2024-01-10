@@ -1,0 +1,21 @@
+To do list TimTube:
+
+priority frontend:
+• creating the admin page frontend.
+• fixing the big sidebar in small case.
+• fixing the categorie buttons so they are scaling with the width of the page.
+
+priority backend:
+• creating the admin page backend.
+
+when done:
+• adding some functions to the buttons.
+
+admin page functions:
+• Login for admins.
+• Create new admin.
+• Delete admin.
+• Delete users.
+• Delete videos.
+• Change video data like titles etc.
+• Delete comments.
