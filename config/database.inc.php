@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost"; // change to the servername.
-$username = "test_user"; // change to the database user his username.
-$password = "wachtwoord"; // change to the database user his password.
-$database = "timtube"; // change to database name.
+$servername = ""; // change to the servername.
+$username = ""; // change to the database user his username.
+$password = ""; // change to the database user his password.
+$database = ""; // change to database name.
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
